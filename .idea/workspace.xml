@@ -2,157 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fde00a7c-b25d-44fe-a64d-fd58e4b10184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/marketing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/migrations/0002_auto_20200316_0626.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketing/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/django-339744_1280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/face-2936245_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/face-2936245_1920_bE6hoQQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/office-620822_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/peter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/peter_D77nn99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/peter_r0rvBNZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/web-1935737_1920.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/workplace-1245776_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/migrations/0002_post_featured.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libfreetype-69f25d5e.so.6.17.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libjpeg-3b10b538.so.9.3.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/liblcms2-a6801db4.so.2.0.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/liblzma-6cd627ed.so.5.2.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libopenjp2-b3d7668a.so.2.3.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libpng16-bedcb7ea.so.16.37.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libtiff-bd1961ca.so.5.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libwebp-3a2aeecf.so.7.0.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libwebpdemux-e9ec482e.so.2.0.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libwebpmux-40630b44.so.3.0.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libz-a147dcb0.so.1.2.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/BdfFontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/BufrStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ContainerIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/CurImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/DcxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ExifTags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/FitsStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/FontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/FpxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/GbrImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/GdImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/GimpGradientFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/GimpPaletteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/GribStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/Hdf5StubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageChops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageCms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageColor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageDraw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageEnhance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageFont.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageGrab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageMath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageMode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageMorph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImagePalette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImagePath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageQt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageShow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageStat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageTk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageTransform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImageWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/ImtImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/JpegPresets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/McIdasImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/MpegImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PSDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PaletteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PalmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PcdImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PcfFontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PdfParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PixarImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PpmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/PyAccess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/TarIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/TiffTags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/WalImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/WmfImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/XVThumbImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/XbmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/XpmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imaging.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingcms.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingft.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingmath.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingmorph.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_tkinter_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_webp.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-7.0.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-7.0.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-7.0.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-7.0.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-7.0.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-7.0.0.dist-info/zip-safe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +102,8 @@
       <workItem from="1584103901210" duration="4826000" />
       <workItem from="1584122488941" duration="5098000" />
       <workItem from="1584252876342" duration="631000" />
-      <workItem from="1584329888071" duration="9281000" />
+      <workItem from="1584329888071" duration="9741000" />
+      <workItem from="1584415204342" duration="46000" />
     </task>
     <servers />
   </component>
@@ -270,6 +122,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="426" y="175" width="1067" height="736" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1584330149457" />
+    <state x="599" y="239" width="720" height="678" key="search.everywhere.popup" timestamp="1584340495511">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="599" y="239" width="720" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1584340495511" />
     <state x="668" y="434" width="574" height="218" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584106859828">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
