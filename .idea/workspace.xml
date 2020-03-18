@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fde00a7c-b25d-44fe-a64d-fd58e4b10184" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/search_results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/sidenav.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/sidenav.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -104,6 +107,8 @@
       <workItem from="1584252876342" duration="631000" />
       <workItem from="1584329888071" duration="9741000" />
       <workItem from="1584415204342" duration="46000" />
+      <workItem from="1584422694220" duration="657000" />
+      <workItem from="1584504614352" duration="3656000" />
     </task>
     <servers />
   </component>
